@@ -1,6 +1,6 @@
 {
   "name": "@lattln/editorjs-formdep-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility functions for EditorJS custom form block tools",
   "main": "src/utils.js",
   "author": "Lin Latt",
@@ -13,6 +13,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@lattln/editorjs-formdep-svgicons": "^1.0.2"
+    "@lattln/editorjs-formdep-svgicons": "^1.0.3"
   }
 }

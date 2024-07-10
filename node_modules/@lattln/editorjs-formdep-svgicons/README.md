@@ -1,4 +1,4 @@
-# editorjs-formdep-svgIcons
+# @lattln/editorjs-formdep-svgIcons
   npm package dependency for @latt/editorjs-formTools/"customTools"
 
 ## All available icons 
