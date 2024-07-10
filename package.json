@@ -1,0 +1,18 @@
+{
+  "name": "@lattln/editorjs-formdep-utils",
+  "version": "1.0.0",
+  "description": "Utility functions for EditorJS custom form block tools",
+  "main": "src/utils.js",
+  "author": "Lin Latt",
+  "license": "MIT",
+  "keywords": [
+    "EditorJS",
+    "Utility"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@lattln/editorjs-formdep-svgicons": "^1.0.2"
+  }
+}
