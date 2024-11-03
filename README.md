@@ -1,6 +1,7 @@
 # @lattln/editorjs-formdep-utils
 Utility function for EditorJS Custom form block tools.
 
+https://www.npmjs.com/package/@lattln/editorjs-formdep-utils
 ## All Utilities
 
 
